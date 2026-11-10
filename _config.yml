@@ -23,7 +23,7 @@ repository               : "spaldingpitzenur80-bot/LJT-Homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : # no photo of the author is available
   name             : "Junteng Liu"
   pronouns         : # example: "she/her"  
   bio              : "First-year Ph.D. candidate at the HKUST NLP Group"
